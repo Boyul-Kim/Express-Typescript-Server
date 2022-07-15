@@ -1,7 +1,7 @@
 {
-    "name": "FitCommit",
+    "name": "Backend Server",
     "version": "1.0.0",
-    "description": "Node backend in Hapi.js and TypeScript.",
+    "description": "Node backend in Express and TypeScript.",
     "main": "index",
     "scripts": {
         "predev": "npm run swagger",
